@@ -1,0 +1,11 @@
+int a = 5;
+int b = 7;
+
+
+++a;
+
+a + b -> 12
+
+a = -b;
+
+if (a != b) return true;
